@@ -1,5 +1,5 @@
-#ifndef CTNetworkTransport_h
-#define CTNetworkTransport_h
+#ifndef CTNetworkTransport_hpp
+#define CTNetworkTransport_hpp
 
 #include <vector>
 
